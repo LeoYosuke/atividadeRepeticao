@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\bin\Debug\listaDeRepeticao.exe.config
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\bin\Debug\listaDeRepeticao.exe
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\bin\Debug\listaDeRepeticao.pdb
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\obj\Debug\listaDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\obj\Debug\listaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\obj\Debug\listaDeRepeticao.exe
+C:\Users\leonardo.ykonichi\source\repos\listaDeRepeticao\listaDeRepeticao\obj\Debug\listaDeRepeticao.pdb
